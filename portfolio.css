@@ -783,6 +783,7 @@ p{
     }
 
     #header .nav-list ul{
+        margin-left: 300px;
         position: initial;
         display: block;
         height: auto;
