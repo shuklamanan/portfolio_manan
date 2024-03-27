@@ -74,6 +74,7 @@ p{
 }
 
 .brand h1{
+    width: 268px;
     font-size: 3rem;
     text-transform: uppercase;
     color: white;
@@ -770,6 +771,14 @@ p{
     }
 
     /* end of Contact */
+}
+
+.logo{
+    display: flex;
+}
+
+.brand{
+    margin-top: 10px;
 }
 
 /* end media query for tablate */
